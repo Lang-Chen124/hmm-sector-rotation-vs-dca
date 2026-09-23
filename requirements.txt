@@ -1,0 +1,9 @@
+akshare
+hmmlearn
+ipython
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
