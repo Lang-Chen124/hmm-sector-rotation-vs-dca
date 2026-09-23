@@ -11,7 +11,7 @@ data/
 ├── csi300_daily_cache.csv
 └── hmm_sw_rotation/
     ├── csi300_daily.csv
-    └── sw_*.csv
+    └── sw_first_level.csv
 ```
 
 The exact cache filenames may change with the data interface used by AKShare. Cached market data are intentionally excluded from version control.
